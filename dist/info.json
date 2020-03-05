@@ -1,0 +1,14 @@
+{
+    "name": "DeadlockStackingForKrastorioLegacy",
+    "version": "0.0.1",
+    "title": "Deadlock Stacking for Krastorio Legacy",
+    "author": "billbo99",
+    "contact": "",
+    "homepage": "https://github.com/billbo99/DeadlockStackingForKrastorioLegacy",
+    "factorio_version": "0.18",
+    "dependencies": [
+        "base >= 0.18",
+        "Krastorio"
+    ],
+    "description": "Stacking for Krastorio Legacy"
+}
